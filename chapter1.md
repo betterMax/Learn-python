@@ -1,3 +1,30 @@
-# First Chapter
+# Chapter1: Basic Concepts
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+## What is python?
+
+## The Python Console
+
+## Simple Operations
+
+## Floats
+
+## Other Numerical Operiations
+
+## Strings
+
+## Simple Input & Output
+
+## String Operations
+
+## Type Conversion
+
+## Varialbes
+
+## In-Place Operators
+
+## Using an Ediotr
+
+
+
+
+
